@@ -1,4 +1,4 @@
-# ☕ Landing Page de Cafetería
+# Landing Page de Cafetería
 
 ## Sistema de Landing Page para Cafetería
 
