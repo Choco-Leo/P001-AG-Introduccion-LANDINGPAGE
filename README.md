@@ -1,7 +1,7 @@
 # ☕ Landing Page de Cafetería
 
 ## Descripción
-Landing page moderna para una cafetería ficticia, desarrollada como proyecto de introducción a Angular...
+Landing page moderna para una cafetería ficticia, desarrollada como proyecto de introducción a Angular
 
 ## Tecnologías
 - Angular
